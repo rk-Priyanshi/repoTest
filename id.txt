@@ -1,0 +1,3 @@
+hello your id booked is: 3454443
+Thanks for choosing this hotel survices!
+
